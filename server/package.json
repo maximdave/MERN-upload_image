@@ -6,6 +6,8 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
   },
+  "repository": "https://github.com/maximdave/MERN-upload_image.git",
+  "author": "David <enoragbondavid35@gmail.com>",
   "dependencies": {
     "cloudinary": "^1.25.2",
     "cookie-parser": "~1.4.4",
